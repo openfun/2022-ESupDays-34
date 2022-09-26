@@ -1,0 +1,21 @@
+{
+  "name": "ralph",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.36.5",
+    "@slidev/theme-apple-basic": "^0.20.0",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  },
+  "devDependencies": {
+    "@iconify-json/bi": "^1.1.8",
+    "@iconify-json/logos": "^1.1.16",
+    "@iconify-json/uim": "^1.1.2",
+    "playwright-chromium": "^1.26.0"
+  }
+}

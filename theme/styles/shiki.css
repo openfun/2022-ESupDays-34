@@ -1,0 +1,10 @@
+.shiki-light {
+  background: #f8f8f8 !important;
+  margin-left: 0.2rem;
+  margin-right: 0.2rem;
+  font-size: 0.7rem !important;
+}
+
+.shiki-dark {
+  background: #1b1b1b !important;
+}
