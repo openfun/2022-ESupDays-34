@@ -17,6 +17,8 @@ info: |
   During this talk, we will introduce Ralph features and its possible
   integration in an infrastructure used to collect, transform and store
   learning traces.
+download: true
+exportFilename: '20220927-ralph-esup34'
 drawings:
   persist: false
 css: unocss
