@@ -116,4 +116,4 @@ image: /images/ralph-potsie-cards.jpg
 * Stream
     - WebSocket
 
-[^1]: Pull request in review
+[^1]: [Pull request](https://github.com/openfun/ralph/pull/213) in review

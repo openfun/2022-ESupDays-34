@@ -74,3 +74,13 @@
     @apply text-6xl font-500 leading-20;
   }
 }
+.slidev-layout.team {
+  @apply text-center;
+
+  .people {
+    @apply grid grid-cols-3 gap-1;
+    background-color: #000;
+    margin-top: 400px;
+    padding: 1rem 0;
+  }
+}

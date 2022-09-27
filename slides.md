@@ -72,10 +72,15 @@ src: sections/directions.md
 ---
 layout: image
 image: /images/fun-data-team.jpg
-class: text-center
+class: team
 ---
 
-## 😻 FUN Data team 😻
+<div class="people">
 
-- Quitterie Lucas
-- Sergio Simonian
+### Sergio Simonian
+
+## 😻 Data team 😻
+
+### Quitterie Lucas
+
+</div>
