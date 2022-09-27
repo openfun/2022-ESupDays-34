@@ -32,16 +32,19 @@ image: /images/a-team.jpg
 
 ## The plan
 
-<div class="text-center text-4xl">
+<div class="space text-center place-content-center text-4xl">
     <logos-python /> &nbsp;
     <span>+</span> &nbsp;
     <logos-elasticsearch />
 </div>
 
 
+<div class="space">
+
 * Setup an [Elasticsearch](https://www.elastic.co/elasticsearch/)-based **data lake** dedicated to learning analytics
 * Develop a [Python](https://python.org) tool able to **fetch** & **transform**  data from various backends
 
+</div>
 
 ---
 layout: full
@@ -49,6 +52,8 @@ class: text-center
 ---
 
 ## How it's going (1)
+
+<div class="space"></div>
 
 ```mermaid
 flowchart LR
@@ -67,6 +72,8 @@ class: text-center
 ---
 
 ## How it's going (2)
+
+<div class="space"></div>
 
 ```mermaid
 flowchart LR

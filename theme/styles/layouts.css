@@ -84,3 +84,7 @@
     padding: 1rem 0;
   }
 }
+
+.slidev-layout .space {
+  margin: 3rem auto;
+}
