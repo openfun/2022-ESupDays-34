@@ -6,7 +6,7 @@ layout: section
 
 ---
 layout: image-right
-image: https://media.giphy.com/media/MczBJsrJEobOfXSK1l/giphy.gif
+image: /images/ralph-questions.gif
 ---
 
 ## Ralph v3.0.0

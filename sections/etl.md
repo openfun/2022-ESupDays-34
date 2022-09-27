@@ -28,7 +28,7 @@ Options:
 
 ---
 layout: image-right
-image: https://i.pinimg.com/736x/c7/2f/1a/c72f1a4b031c06f97d89138307717dbf--happy-day-famous-people.jpg
+image: /images/fonzie-yeah.jpg
 ---
 
 ## ETL: Extract Transform Load

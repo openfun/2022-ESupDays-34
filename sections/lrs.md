@@ -6,7 +6,7 @@ layout: section
 
 ---
 layout: image-right
-image: https://imageresizer.static9.net.au/0dacSedUBPJVMfSVuy3mtA-CJAA=/940x549:2360x1970/1200x0/https%3A%2F%2Fprod.static9.net.au%2Ffs%2Feabea2ac-c567-4fc7-abcf-bdfe9baf4a81
+image: /images/ralph-coke.jpg
 ---
 
 ## Learning Record Store (LRS)
@@ -27,7 +27,7 @@ to receive and return xAPI statements.
 
 ---
 layout: image-right
-image: https://media.giphy.com/media/XeXI5mEycpAOTlx88P/giphy.gif
+image: /images/ralph-surprise.gif
 ---
 
 

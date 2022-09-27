@@ -6,7 +6,7 @@ layout: section
 
 ---
 layout: image-right
-image: https://4.bp.blogspot.com/-Dj4PBXWFZPY/Vt8BwBcfkeI/AAAAAAAAHGM/1mTTfZpBJME/s1600/93755782.jpg
+image: /images/ralph-fonzie.jpg
 ---
 
 ## Installation
@@ -57,7 +57,7 @@ Commands:
 
 ---
 layout: image-right
-image: https://3.bp.blogspot.com/-cm7StgNWjAE/Vt8CB6GWKEI/AAAAAAAAHGw/sPU6Ys5rNnM/s1600/Hap16.jpg
+image: /images/ralph-bubblegum.jpg
 ---
 
 ## Example workflows
@@ -84,7 +84,7 @@ ralph list --backend ldp --new |
 
 ---
 layout: image-right
-image: https://2.bp.blogspot.com/-XvtwBKqdZAY/Vt8CisiDsOI/AAAAAAAAHG4/ZaleahZHzro/s1600/tumblr_lpk0gsSApU1ql0yqio1_500.jpg
+image: /images/ralph-mic.jpg
 ---
 
 ## Quickly explore your data
@@ -101,7 +101,7 @@ ralph fetch --backend swift 20220923.xapi.gz | \
 ```
 ---
 layout: image-right
-image: https://i.pinimg.com/originals/3d/a5/17/3da5173d53f14664222defa4befdf773.jpg
+image: /images/ralph-potsie-cards.jpg
 ---
 
 ## Supported backends
