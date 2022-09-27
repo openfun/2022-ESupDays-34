@@ -18,6 +18,7 @@ image: /images/ralph-questions.gif
 
 - LRS server generic backend support
 - Improved documentation (tutorial)
+- Improve library support (dependencies, APIs)
 - Helm chart
 
 ## Check this out!

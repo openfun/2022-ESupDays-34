@@ -5,6 +5,19 @@ layout: section
 # Ralph is a library
 
 ---
+layout: image-right
+image: /images/fonzie-and-son.gif
+---
+
+## A CLI is cool, but write Python code is even cooler!
+
+<div class="space"></div>
+
+* Ease developers onboarding
+* Maintainability
+* Jupyter notebooks
+
+---
 layout: two-cols
 ---
 
@@ -122,7 +135,7 @@ def test_models_xapi_page_terminated_statement(statement):
 layout: two-cols
 ---
 
-## Multiple backends, same API
+## Multiple backends, same API.
 
 ```python
 # ralph.backends.database.base module
@@ -154,6 +167,8 @@ class BaseDatabase(ABC):
 
 ::right::
 
+## An ongoing effort. 😎
+
 ```python
     @abstractmethod
     def query_statements(
@@ -172,6 +187,5 @@ class BaseDatabase(ABC):
         """Returns the list of matching statement IDs from
         the database.
         """
-
 ```
 
