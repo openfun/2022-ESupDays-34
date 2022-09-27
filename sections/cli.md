@@ -11,7 +11,7 @@ image: /images/ralph-fonzie.jpg
 
 ## Installation
 
-Ralph is distributed as python package:
+Ralph is distributed as a python package:
 
 ```sh
 # Create a new virtualenv (optional)
@@ -109,10 +109,10 @@ image: /images/ralph-potsie-cards.jpg
 * Database
     - Elasticsearch
     - MongoDB
-* Storage:
+* Storage
     - Swift
-    - AWS S3[^1]
     - LDP (Log Data Platform)
+    - AWS S3[^1]
 * Stream
     - WebSocket
 
