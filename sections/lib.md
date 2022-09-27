@@ -175,21 +175,3 @@ class BaseDatabase(ABC):
 
 ```
 
----
-layout: image-right
-image: https://i.pinimg.com/originals/3d/a5/17/3da5173d53f14664222defa4befdf773.jpg
----
-
-## Supported backends
-
-* Database
-    - Elasticsearch
-    - MongoDB
-* Storage:
-    - Swift
-    - AWS S3[^1]
-    - LDP (Log Data Platform)
-* Stream
-    - WebSocket
-
-[^1]: Pull request in review
